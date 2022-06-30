@@ -1,0 +1,21 @@
+apiVersion: v1
+entries:
+  pages:
+  - apiVersion: v2
+    appVersion: "1.0"
+    created: "2022-06-30T11:36:47.942906607+01:00"
+    dependencies:
+    - name: pages-api
+      repository: https://waltbeach.github.io
+      version: 1.x.x
+    - name: mysql
+      repository: https://waltbeach.github.io
+      version: 1.x.x
+    description: A Helm chart for Pages Application
+    digest: 3ddf816b37edc2fe6af95c43c08233927ba2d78f761db39774f63bc6cdea8afb
+    name: pages
+    type: application
+    urls:
+    - pages-1.0.0.tgz
+    version: 1.0.0
+generated: "2022-06-30T11:36:47.939540655+01:00"
